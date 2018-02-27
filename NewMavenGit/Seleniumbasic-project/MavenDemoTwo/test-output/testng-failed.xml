@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [MavenSuite]">
+  <test name="ThroughMaven(failed)">
+    <parameter name="userName" value="firefox"/>
+    <parameter name="browserType" value="firefox"/>
+    <classes>
+      <class name="com.edureka.test.DataProviderTest">
+        <methods>
+          <include name="loadConfigurations"/>
+          <include name="launchBrowser"/>
+          <include name="loadUrl"/>
+          <include name="anotherBeforeSuite"/>
+          <include name="login" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10"/>
+        </methods>
+      </class> <!-- com.edureka.test.DataProviderTest -->
+    </classes>
+  </test> <!-- ThroughMaven(failed) -->
+</suite> <!-- Failed suite [MavenSuite] -->
