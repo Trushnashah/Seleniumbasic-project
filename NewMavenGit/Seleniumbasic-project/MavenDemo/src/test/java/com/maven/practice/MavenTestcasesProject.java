@@ -10,7 +10,7 @@ public class MavenTestcasesProject {
 	@Test
 	public void testcase1() {
 	System.out.println("This is for Maven");
-
+//Trushna
 	}
 	}
 
