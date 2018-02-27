@@ -1,0 +1,10 @@
+<suite name="ForMaven"  >
+		<test name="TCM">
+		<classes>
+			<class name="com.EdurekaProject.TC1.Action.ValidateCredential"/>
+			
+		</classes>
+		</test>	
+	
+	
+</suite>
