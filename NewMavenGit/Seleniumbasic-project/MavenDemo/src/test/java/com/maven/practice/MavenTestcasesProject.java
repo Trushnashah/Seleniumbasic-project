@@ -11,6 +11,7 @@ public class MavenTestcasesProject {
 	public void testcase1() {
 	System.out.println("This is for Maven");
 //Trushna shah
+	//Branching practice
 	}
 	}
 
