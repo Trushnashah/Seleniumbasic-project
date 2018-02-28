@@ -147,8 +147,7 @@ public class MavenTestcasesProject {
 	C:\Trushna\Git>git branch
 	* Tru_local
 	  master
-
-	}
-	}
-
 */
+	}
+	}
+
