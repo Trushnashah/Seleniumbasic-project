@@ -3,7 +3,7 @@
 
 	public enum FlightDetailsEnum {
 
-		//DEPART FLIGHTS
+		//DEPART FLIGHTS Details
 		BLUESKIESAIRLINES360("BlueSkies Airlines$360$270$5:03"),
 		BLUESKIESAIRLINES361("BlueSkies Airlines$361$271$7:10"),
 		PANGAEAAIRLINES362("Pangea Airlines$362$274$9:17"),

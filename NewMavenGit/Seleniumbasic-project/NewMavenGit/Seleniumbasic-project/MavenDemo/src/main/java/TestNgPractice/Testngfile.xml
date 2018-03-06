@@ -1,0 +1,7 @@
+<suite name="FirstloginwithExcel">
+	<test name="Firsttest">
+		<classes>
+		<class name = "TestNgPractice.DataProviderandReaddatafromExcel"/>
+		</classes>
+	</test>
+</suite>
