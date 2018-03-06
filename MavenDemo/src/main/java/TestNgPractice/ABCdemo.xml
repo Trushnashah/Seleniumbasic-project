@@ -1,0 +1,8 @@
+<suite name="mytrialsuite">
+	<test name="mytrialtc">
+		<classes>
+			<class name = " TestNgPractice.sendMail" />
+			<class name= "TestNgPractice.Dummyclass" />
+		</classes>
+	</test>
+</suite>

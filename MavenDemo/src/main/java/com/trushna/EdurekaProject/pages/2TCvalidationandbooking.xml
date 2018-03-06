@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Triptourbook" parallel ="tests" >
+	<test name="TC1">
+				<groups>
+					<run>
+						<include name="smoke">
+						</include>
+					</run>
+				</groups>
+		<classes>
+			<class name="com.EdurekaProject.TC1.Action.ValidateCredential">
+			</class>
+		</classes>
+	</test>
+	<test name="TC2">
+		<classes>
+			<class name="com.trushna.EdurekaProject.pages.Actionloginflightbook">
+			</class>
+		</classes>
+	</test> 
+	
+</suite>

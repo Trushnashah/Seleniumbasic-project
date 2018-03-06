@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Edurekaprojecttestcase]">
+  <test name="TCM(failed)">
+    <classes>
+      <class name="com.EdurekaProject.TC1.Action.ValidateCredential">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="URL"/>
+          <include name="validatelogin"/>
+        </methods>
+      </class> <!-- com.EdurekaProject.TC1.Action.ValidateCredential -->
+    </classes>
+  </test> <!-- TCM(failed) -->
+</suite> <!-- Failed suite [Edurekaprojecttestcase] -->
