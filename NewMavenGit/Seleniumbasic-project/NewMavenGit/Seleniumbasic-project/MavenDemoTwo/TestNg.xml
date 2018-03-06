@@ -1,0 +1,10 @@
+<suite name="MavenSuite" parallel="none"> 
+	<test name="ThroughMaven">
+		<parameter name="browserType" value="firefox" />
+		<parameter name="userName" value="firefox" />
+		<classes>
+			<class name="com.edureka.test.DataProviderTest" />
+		</classes>
+	</test>
+
+</suite>
